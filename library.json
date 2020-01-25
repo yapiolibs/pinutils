@@ -1,0 +1,21 @@
+{
+  "name": "PinUtils",
+  "keywords": "scoped pin, toggle pin",
+  "description": "yet another pin utility that manipulates pins",
+  "homepage": "https://github.com/yapiolibs/pinutils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yapiolibs/pinutils.git"
+  },
+  "authors": [
+    {
+      "name": "Raoul Rubien",
+      "url": "https://github.com/rubienr",
+      "maintainer": "true"
+    }
+  ],
+  "dependencies": [],
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
